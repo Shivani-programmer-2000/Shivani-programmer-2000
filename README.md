@@ -31,19 +31,13 @@ I'm an AI/ML developer who builds real-world systems using computer vision, deep
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/Shivani-programmer-2000/VocalEyes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivani-programmer-2000&repo=VocalEyes&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Shivani-programmer-2000/AI_HEALTH_PREDICT_SYSTEM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivani-programmer-2000&repo=AI_HEALTH_PREDICT_SYSTEM&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Shivani-programmer-2000/StegoSecure">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivani-programmer-2000&repo=StegoSecure&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Shivani-programmer-2000/EmotionMusicApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivani-programmer-2000&repo=EmotionMusicApp&theme=tokyonight&hide_border=true"/>
-</a>
-
+| Project | Description | Tech |
+|---|---|---|
+| 🔭 [VocalEyes](https://github.com/Shivani-programmer-2000/VocalEyes) | AI assistive vision system for visually impaired users — real-time object detection + OCR + voice alerts | `Python` `YOLOv8` `Flask` `OpenCV` |
+| 🏥 [AI Health Predict System](https://github.com/Shivani-programmer-2000/AI_HEALTH_PREDICT_SYSTEM) | ML-powered disease prediction system | `Python` `ML` `HTML` |
+| 🔒 [StegoSecure](https://github.com/Shivani-programmer-2000/StegoSecure) | Steganography tool to hide secret data inside images | `Python` `Security` |
+| 🎵 [EmotionMusicApp](https://github.com/Shivani-programmer-2000/EmotionMusicApp) | Detects your emotion and plays matching music in real time | `Python` `ML` `OpenCV` |
+| 🚗 [Vehicle Recognition System](https://github.com/Shivani-programmer-2000/VEHICLE-RECOGNITION-SYSTEM) | Computer vision system for vehicle detection | `Python` `CV` `HTML` |
 ---
 
 ## 📊 GitHub Stats
@@ -71,6 +65,7 @@ I'm an AI/ML developer who builds real-world systems using computer vision, deep
   <img alt="snake animation" src="https://raw.githubusercontent.com/Shivani-programmer-2000/Shivani-programmer-2000/output/github-contribution-grid-snake.svg">
 </picture>
 
+--- 
 
 ## 🤝 Connect With Me
 
