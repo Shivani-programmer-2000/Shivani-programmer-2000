@@ -33,6 +33,7 @@ I'm an AI/ML developer who builds real-world systems using computer vision, deep
 
 | Project | Description | Tech |
 |---|---|---|
+| 🔬 [AI Forensic Analyzer](https://github.com/Shivani-programmer-2000/AI_Powered_Forensic_Structural_And_Audio_Analysis) | Full-stack forensic platform — weapon detection + audio classification + auto PDF reports | `Python` `React` `YOLOv5` `Flask` `Librosa` |
 | 🔭 [VocalEyes](https://github.com/Shivani-programmer-2000/VocalEyes) | AI assistive vision system for visually impaired users — real-time object detection + OCR + voice alerts | `Python` `YOLOv8` `Flask` `OpenCV` |
 | 🏥 [AI Health Predict System](https://github.com/Shivani-programmer-2000/AI_HEALTH_PREDICT_SYSTEM) | ML-powered disease prediction system | `Python` `ML` `HTML` |
 | 🔒 [StegoSecure](https://github.com/Shivani-programmer-2000/StegoSecure) | Steganography tool to hide secret data inside images | `Python` `Security` |
