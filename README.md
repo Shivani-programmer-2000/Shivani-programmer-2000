@@ -67,6 +67,12 @@ I'm an AI/ML developer who builds real-world systems using computer vision, deep
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivani-programmer-2000/Shivani-programmer-2000/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Shivani-programmer-2000/Shivani-programmer-2000/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## 🤝 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23BTRCL258@jainuniversity.ac.in)
